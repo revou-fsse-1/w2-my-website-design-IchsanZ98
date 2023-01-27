@@ -6,7 +6,7 @@
 
 ### Links:
 
-- Figma: 
+- Figma: <https://www.figma.com/file/5sZsTPChObvh3hnKphwK4x/w2-my-website-design-IchsanZ98?node-id=0%3A1&t=TnB9iWQw76TE2z7T-1>
 - Miro: <https://miro.com/app/board/uXjVPucJQw4=/?share_link_id=661066743382>
 
 ### Inspiration:
