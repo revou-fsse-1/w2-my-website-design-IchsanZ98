@@ -18,8 +18,11 @@ DPMPTSP web is a local government website built to provide administrative and bu
 
 ### Inspiration:
 
+- Website DPMPTSP
 - <https://dribbble.com/>
 - <https://unsplash.com/>
+- <https://www.flaticon.com/>
+- <https://www.figma.com/community>
 
 ## Screenshots
 
