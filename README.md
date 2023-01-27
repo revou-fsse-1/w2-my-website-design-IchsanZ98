@@ -5,7 +5,7 @@
 
 ## Project Description
 
-DPMPTSP web is a local government website built to provide administrative and bureaucratic services to local communities through online channels. This web was created to make it easier for the public to submit applications for various types of permits. This application was created to make it easier for the public to submit applications for various types of permits, as well as to make it easier for applicants to find information about permits and investment potential in the area.
+DPMPTSP web is a local government website built to provide administrative and bureaucratic services to local communities through online channels. This application was created to make it easier for the public to submit applications for various types of permits, as well as to make it easier for applicants to find information about permits and investment potential in the area.
 
 ## Links and Inspirations
 
